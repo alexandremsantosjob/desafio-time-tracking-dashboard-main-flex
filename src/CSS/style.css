@@ -113,7 +113,7 @@ body {
   background-color: var(--color-desaturated-blue);
 }
 
-.center {
+.container-center {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -121,7 +121,7 @@ body {
   padding: 30px;
 }
 
-.left {
+.container-left {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -184,13 +184,14 @@ body {
   margin-left: 30px;
 }
 
-.info h4 {
+.info h1 {
   margin-bottom: 30px;
   justify-content: left;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 18px;
 }
 
-.info h1 {
+.info h2 {
   font-weight: 300;
   font-size: 60px;
   margin-bottom: 30px;
