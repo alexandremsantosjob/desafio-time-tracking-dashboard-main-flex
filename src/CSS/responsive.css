@@ -81,6 +81,14 @@
     }
 
 }
+@media (max-width:420px) {
+    
+    .filho-info {
+        text-align: center;
+    }
+
+
+}
 
 @media (max-width:375px) {
     
