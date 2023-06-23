@@ -1,6 +1,6 @@
 @media (max-width:1024px) {
     
-    body {
+    main {
         width: 95vw;
         flex-direction: column;
     }
@@ -42,7 +42,7 @@
 
 @media (max-width:768px) {
     
-    body {
+    main {
         width: 95vw;
         flex-direction: column;
     }

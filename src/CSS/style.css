@@ -17,15 +17,18 @@
 }
 
 body {
+  background-color: var(--color-very-dark-blue);
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+}
+
+main{
   display: flex;
   align-items: center;
   justify-content: center;
   width: 1440px;
   min-height: 100vh;
   margin: 0 auto;
-  background-color: var(--color-very-dark-blue);
-  font-family: 'Rubik', sans-serif;
-  font-size: 18px;
 }
 
   /* PROFILE */
